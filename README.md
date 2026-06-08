@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**VengeanceGH/VengeanceGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student passionate about data analytics and data engineering.
+I'm spending this summer building real projects to break into the field.
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm building
+- Python (pandas, matplotlib, plotly, scikit-learn)
+- SQL (PostgreSQL)
+- Power BI
+- Data pipelines and ETL
+- Machine learning basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| E-Commerce Analytics Platform | Coming soon | SQL, Python, Power BI |
+| Real-Time Data Pipeline | Coming soon | Airflow, PostgreSQL, Docker |
+| ML Prediction System | Coming soon | Scikit-learn, XGBoost, FastAPI |
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/mazbabul-alom-anir-1bb530186/)
+
+---
+*Currently open to Data Analyst and Data Engineer internship opportunities*
