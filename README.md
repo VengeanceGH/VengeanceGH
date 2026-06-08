@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [MAZBABUL ALOM ANIR] 👋
 
 I'm a university student passionate about data analytics and data engineering.
 I'm spending this summer building real projects to break into the field.
